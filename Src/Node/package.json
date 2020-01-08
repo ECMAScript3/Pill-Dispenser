@@ -1,0 +1,22 @@
+{
+  "name": "pill-dispenser",
+  "version": "1.0.0",
+  "description": "A pill dispenser for Alzheimer patients",
+  "main": "TimeSync.js",
+  "scripts": {
+    "test": "node TimeSync.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECMAScript3/Pill-Dispenser.git"
+  },
+  "author": "Shawn McAnalley, Elijah Wittman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ECMAScript3/Pill-Dispenser/issues"
+  },
+  "homepage": "https://github.com/ECMAScript3/Pill-Dispenser#readme",
+  "dependencies": {
+    "serialport": "^8.0.6"
+  }
+}
